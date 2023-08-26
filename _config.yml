@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mengyu Li"
-  avatar           : ".\images\mengyu.png"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Munich, Germany"
   employer         :
