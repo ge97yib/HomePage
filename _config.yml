@@ -13,7 +13,7 @@ name                     : &name "Mengyu Li"
 description              : &description "Master Student"
 url                      : "https://ge97yib.github.io" #https://academicpages.github.io the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" #"https://github.com/ge97yib "   the subpath of your site, e.g. "/blog"
-repository               : "ge97yib/mengyu-homepage.github.io" #"academicpages/academicpages.github.io"
+repository               : "ge97yib.github.io" #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mengyu Li"
-  avatar           : "mengyu_profile.png"
+  avatar           : "profile.png"
   bio              : "Master student of Mechatronics and Robotics at TUM"
   location         : "Munich, Germany"
   employer         :
