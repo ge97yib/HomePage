@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mengyu Li"
-  avatar           : "images\profile.png"
+  avatar           : "profile.png"
   bio              : "Master student of Mechatronics and Robotics at TUM"
   location         : "Munich, Germany"
   employer         :
