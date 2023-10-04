@@ -27,9 +27,6 @@ Skills
 ======
 * AutoCAD, Inventor, Solidworks, Catia
 * Matlab, Simulink, ROS
-  <!-- * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3 -->
 * Python, C, Pytorch
 
 <!-- Publications
