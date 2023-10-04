@@ -26,20 +26,15 @@ profi cient in General Motors' Production Process Management System.
   * Played a key role in analyzing and addressing quality issues by leveraging
 customer feedback and employing Six Sigma methodologies, among other
 techniques.
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* AutoCAD, Inventor, Solidworks, Catia
+* Matlab, Simulink, ROS
+  <!-- * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Sub-skill 2.3 -->
+* Python, C, Pytorch
 
 <!-- Publications
 ======
