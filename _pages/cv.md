@@ -19,16 +19,16 @@ Education
 Work experience
 ======
 * Sep.2020-Mar.2021: CHASSIS ENGINEER,SAIC-GM Wuhan
-  * Supervised the identification and timely resolution of assembly and quality issues, particularly during the installation of suspension and mounting components on the chassis production line at the final assembly plant. This role necessitated vigilant oversight and proactive problem-solving to maintain the integrity and efficiency of the production process.
-  * Acquired extensive knowledge and proficiency in Lean Manufacturing principles, mastering General Motors' Production Process Management System. This expertise was instrumental in streamlining operations, minimizing waste, and optimizing overall workflow at the production facility.
-  * Played a pivotal role in addressing and mitigating quality issues through a comprehensive approach. This involved utilizing valuable customer feedback and implementing Six Sigma methodologies and additional effective techniques to improve product quality and customer satisfaction consistently.
-
+  * Reviewed and corrected errors in the chassis assembly line operation manual; developed a dashboard to assist the production line in reducing operational mistakes.
+  * Learned Lean Manufacturing through hands-on production line experience and quickly mastered the GMS layered process management system.
+  * Analyzed historical quality issue reports, participated in part design modifications using SolidWorks, conducted simulation analyses, and assisted in resolving abnormal noise problems in components.
   
 Skills
 ======
-* AutoCAD, Inventor, Solidworks, Catia \\
-* Matlab, Simulink, ROS \\
-* Python, C, Pytorch \\
+* AutoCAD, Inventor, Solidworks, Catia \
+* Matlab, Simulink, ROS \
+* Python, C, Pytorch \
+
 
 <!-- Publications
 ======
