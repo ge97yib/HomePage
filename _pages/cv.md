@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
+* M.S. Mechatronics and robotics, Technical University of Munich, 2021-2024
 * B.S. Armored Vehicle Engineering, Beijing Institute of Technology, 2016-2020
-* M.S. Mechatronics and robotics, Technical University of Munich, 2021-Now
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+
 
 Work experience
 ======
@@ -25,9 +26,9 @@ Work experience
   
 Skills
 ======
-* AutoCAD, Inventor, Solidworks, Catia
-* Matlab, Simulink, ROS
-* Python, C, Pytorch
+* AutoCAD, Inventor, Solidworks, Catia \\
+* Matlab, Simulink, ROS \\
+* Python, C, Pytorch \\
 
 <!-- Publications
 ======
