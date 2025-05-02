@@ -10,7 +10,8 @@ redirect_from:
 
 Master's Thesis
 ======
-
+Multi-Modal Fusion of Image Sequences for Dense Prediction with RGB and Event Cameras in Autonomous Driving
+My Master’s thesis explores the integration of RGB and event camera data to enhance dense prediction tasks—such as semantic segmentation, depth estimation, and object detection—in autonomous driving. RGB cameras deliver high-resolution visual information essential for scene understanding, while event cameras provide high temporal resolution and dynamic range, enabling motion detection and perception under extreme lighting conditions. By fusing these complementary modalities, the system can construct a more complete and resilient representation of dynamic traffic environments. This research investigates multi-modal feature fusion strategies tailored for semantic segmentation.
 
 Semester Thesis
 ======
@@ -21,7 +22,10 @@ Conventional multi-object tracking in Intelligent Transportation Systems (ITS) l
 
 Internship
 ======
+Decentralized Tracking in the Context of the DISRUPT Project
+As part of the DISRUPT project, my internship focused on decentralized multi-object tracking for intelligent transportation systems. I investigated multi-camera object tracking using a large-scale synthetic dataset, comparing decentralized and centralized tracking algorithms. I further explored covariance intersection methods to enhance decentralized fusion performance and tracking reliability across distributed sensor nodes. I also generated ground truth data from vehicle test drives using GNSS and RTK (real-time kinematics) technologies, and actively participated in field testing for system validation.
 
+From a systems integration perspective, I designed and implemented an MQTT-based communication pipeline to enable real-time data transmission between heterogeneous edge devices and the cloud. Additionally, I conceptualized efficient data exchange protocols in a ROS2 wireless network, and created Dockerized modules to ensure scalable and hardware-independent deployment of sensor fusion components.
 
 
 Site-wide configuration
