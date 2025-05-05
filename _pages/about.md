@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I'm Mengyu.
+I hold an M.Sc. degree from the Technical University of Munich.
+My academic interests lie in event-based vision for scene understanding, particularly in the context of autonomous driving and intelligent transportation systems.
+I am currently seeking a PhD opportunity where I can further explore the potential of event-based vision and contribute to cutting-edge research in this exciting field.
+
+
+
 Master's Thesis
 ======
 Multi-Modal Fusion of Image Sequences for Dense Prediction with RGB and Event Cameras in Autonomous Driving

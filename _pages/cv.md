@@ -25,9 +25,9 @@ Work experience
   
 Skills
 ======
-* AutoCAD, Inventor, Solidworks, Catia \
-* Matlab, Simulink, ROS \
-* Python, C, Pytorch \
+* AutoCAD, Inventor, Solidworks, Catia 
+* Matlab, Simulink, ROS 
+* Python, C, Pytorch 
 
 
 <!-- Publications
